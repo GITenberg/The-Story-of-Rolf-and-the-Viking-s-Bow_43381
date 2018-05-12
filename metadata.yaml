@@ -1,0 +1,42 @@
+_repo: The-Story-of-Rolf-and-the-Viking-s-Bow_43381
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Rosenmeyer, Bernard J.
+    alias: Rosenmeyer, B. J. (Bernard J.)
+    gutenberg_agent_id: '42167'
+    url: http://www.gutenberg.org/2009/agents/42167
+covers:
+- cover_type: archival
+  image_path: 43381-h/images/cover.jpg
+creator:
+  author:
+    agent_name: French, Allen
+    birthdate: 1870
+    deathdate: 1946
+    gutenberg_agent_id: '31596'
+    url: http://www.gutenberg.org/2009/agents/31596
+description: 'Rolf is the son of Hiarandi the Unlucky. Hiarandi, at the urging of
+  his wife, does an unforgivable thing: he lights a signal fire on a dangerous point
+  of his land, challenging the accepted custom that place lucrative salvage at a higher
+  value than the saving of life. However, the life that is saved that night causes
+  his own death and the unjust outlawing of his son Rolf. This tale exemplifies the
+  effect of Christ''s teachings upon the Icelandic people during their heroic age.
+  The book is set in Iceland in the days when Christianity has come to the island
+  though the old customs.'
+gutenberg_issued: '2013-08-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43381'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Heroes -- Juvenile fiction'
+- !lcsh 'Iceland -- History -- To 1262 -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Vikings -- Juvenile fiction'
+- !lcsh 'Archers -- Juvenile fiction'
+title: The Story of Rolf and the Viking's Bow
+url: http://www.gutenberg.org/ebooks/43381
